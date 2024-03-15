@@ -42,16 +42,13 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
   
 
 ## 📁 Acesso ao projeto
-
   
 
-Você pode [baixar o zip](https://github.com/leollo98/iac-curso5/archive/refs/heads/Aula_6.zip) ou [acessar o código fonte](https://github.com/leollo98/iac-curso5/tree/Aula_6) do projeto final.
+Você pode [acessar o código fonte] (https://github.com/J3remias-Barcelos/TerraformECS_AWS) do projeto final.
 
   
 
 ## 🛠️ Abrir e rodar o projeto
-
-  
 
 O projeto foi desenvolvido no VSC (Visual Studio Code), sendo assim, instale o VSC (pode ser uma versão mais recente) e, na tela inicial, procure a opção extensões, ou aperte Ctrl+Shift+X, e busque por HashiCorp Terraform, assim teremos o suporte do intellisense, tornando o trabalho de escrever o código mais rápido.
 
